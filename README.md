@@ -36,5 +36,5 @@ Challenges while building the app:
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/KQCtUaK.gif" width=''><br>
+<img src="https://i.imgur.com/KQCtUaK.gif" width='250'><br>
 
